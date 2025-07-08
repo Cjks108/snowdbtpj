@@ -1,0 +1,11 @@
+{
+    "dbt.perspectiveTheme": "Vintage",
+    "dbt.enableNewLineagePanel": true,
+    "dbt.deferConfigPerProject": {
+        "dbttask": {
+            "manifestPathForDeferral": "c:\\Users\\98chi\\Documents\\DBT_PJ",
+            "manifestPathType": "local",
+            "deferToProduction": true
+        }
+    }
+}

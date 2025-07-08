@@ -1,0 +1,17 @@
+version: 2
+
+exposures:
+  - name: Airbnb Hosts Insights
+    type: dashboard
+    maturity: medium
+    url: https://811b8bf9.us2a.app.preset.io/superset/dashboard/8/?native_filters_key=KBEzv0yk3CfFl_0LBQmh1gzrlYq1PzNosdkKhlUrEg98Wej1keyLuc159wd9C28X
+    description: Airbnb Hosts Insights Dashboard about Airbnb listings and hosts
+      
+
+    depends_on:
+      - ref('dim_listings_w_hosts')
+      - ref('full_moon_reviews')
+
+    owner:
+      name: Chirag Sharma
+      email: 98chiragsharma@gmail.com
