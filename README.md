@@ -18,6 +18,14 @@ Welcome to the DBT Project! This repository contains a complete dbt (data build 
 - `my_dbt_dagster_pj_1/` — Python project for Dagster integration
   - `assets.py`, `constants.py`, etc. — Python code for orchestration
 
+## 🖼️ Project Images
+
+![DBT Workflow](dbt_pj_img/dbt_workflow.png)
+*Example: DBT workflow diagram*
+
+![Data Lineage](dbt_pj_img/data_lineage.png)
+*Example: Data lineage visualization*
+
 ## 🚀 Getting Started
 
 1. **Install dbt**
@@ -73,3 +81,4 @@ This project is licensed under the MIT License.
 ---
 
 Happy modeling! ✨
+Made with ❤️ by Chirag Sharma
