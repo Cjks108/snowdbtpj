@@ -20,10 +20,10 @@ Welcome to the DBT Project! This repository contains a complete dbt (data build 
 
 ## 🖼️ Project Images
 
-![DBT Workflow](dbt_pj_img/dbt_pj_img/dbt doc 21 full linage graph.png)
-*Example: DBT workflow diagram*
+![Data Pipeline Architecture Diagram](dbt_pj_img\Data Pipeline Architecture Diagram.png)
+*Example: Data Pipeline Architecture Diagram*
 
-![Data Lineage](dbt_pj_img/dbt_pj_img/dbt doc 21 full linage graph.png)
+![Data Lineage](dbt_pj_img\dbt doc 21 full linage graph.png)
 *Example: Data lineage visualization*
 
 ## 🚀 Getting Started
