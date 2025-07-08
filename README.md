@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://seeklogo.com/images/S/snowflake-logo-CE20F6A5E4-seeklogo.com.png" alt="Snowflake" height="60" />
+  <img src="logo/snow.png" alt="Snowflake" height="50" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/dbt-labs/dbt/main/media/dbt-logo-full.svg" alt="dbt" height="60" />
+  <img src="logo/dbt.png" alt="dbt" height="50" />
   &nbsp;&nbsp;
-  <img src="https://dagster.io/images/logos/dagster-horizontal.svg" alt="Dagster" height="60" />
+  <img src="logo/dagster.png" alt="Dagster" height="50" />
   &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/64200921?s=200&v=4" alt="Preset.io" height="60" />
+  <img src="logo/preset.jpg" alt="Preset" height="50" />
 </p>
+
 # 🏗️ DBT Project
 
 Welcome to the DBT Project! This repository contains a complete dbt (data build tool) analytics project, including models, macros, seeds, snapshots, and tests, as well as useful packages and integration with Python assets.
