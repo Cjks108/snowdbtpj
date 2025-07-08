@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="logo/snow.png" alt="Snowflake" height="50" />
+  <img src="./logo/snow.png" alt="Snowflake" height="50" />
   &nbsp;&nbsp;
-  <img src="logo/dbt.png" alt="dbt" height="50" />
+  <img src="./logo/dbt.png" alt="dbt" height="50" />
   &nbsp;&nbsp;
-  <img src="logo/dagster.png" alt="Dagster" height="50" />
+  <img src="./logo/dagster.png" alt="Dagster" height="50" />
   &nbsp;&nbsp;
-  <img src="logo/preset.jpg" alt="Preset" height="50" />
+  <img src="./logo/preset.jpg" alt="Preset" height="50" />
 </p>
 
 # 🏗️ DBT Project
